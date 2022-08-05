@@ -1,0 +1,15 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "JRt49zfb47bstEDw7Gy9G",
+      "createdAt": 1659733602020,
+      "name": "Tris",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
+}
