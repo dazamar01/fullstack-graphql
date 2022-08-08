@@ -6,6 +6,14 @@
 
 - Node version >= 6
 
+# Build the app
+
+In order to install the dependecies, just run:
+
+```
+  yarn install
+```
+
 # How to run this app
 
 You'll need to run the graphql server
